@@ -19,7 +19,7 @@ body {
 .block {
     background-color: rgba(229,229,229,.85);
     width: 75vw;
-    height: 40vh;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
