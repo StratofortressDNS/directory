@@ -1,1 +1,6 @@
 @import url('http://assets.strato/index.css');
+
+.separator {
+    display: inline-block;
+    width: .1vw
+}
